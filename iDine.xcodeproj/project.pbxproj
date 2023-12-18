@@ -22,6 +22,7 @@
 		A76FECD32B305E4C00FDAB04 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76FECD22B305E4C00FDAB04 /* ItemDetail.swift */; };
 		A76FECD52B306E3500FDAB04 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76FECD42B306E3500FDAB04 /* OrderView.swift */; };
 		A76FECD72B30747F00FDAB04 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76FECD62B30747F00FDAB04 /* MainView.swift */; };
+		A76FECD92B30768B00FDAB04 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76FECD82B30768B00FDAB04 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		A76FECD22B305E4C00FDAB04 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		A76FECD42B306E3500FDAB04 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		A76FECD62B30747F00FDAB04 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		A76FECD82B30768B00FDAB04 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +165,7 @@
 				A76FECD22B305E4C00FDAB04 /* ItemDetail.swift */,
 				A76FECD42B306E3500FDAB04 /* OrderView.swift */,
 				A76FECD62B30747F00FDAB04 /* MainView.swift */,
+				A76FECD82B30768B00FDAB04 /* CheckoutView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -308,6 +311,7 @@
 			files = (
 				A76FECD32B305E4C00FDAB04 /* ItemDetail.swift in Sources */,
 				A76FECD72B30747F00FDAB04 /* MainView.swift in Sources */,
+				A76FECD92B30768B00FDAB04 /* CheckoutView.swift in Sources */,
 				A76FECD52B306E3500FDAB04 /* OrderView.swift in Sources */,
 				A76FECC82B30576D00FDAB04 /* Order.swift in Sources */,
 				A76FEC9E2B30570800FDAB04 /* ContentView.swift in Sources */,
