@@ -21,6 +21,7 @@
 		A76FECD12B305A9800FDAB04 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76FECD02B305A9800FDAB04 /* ItemRow.swift */; };
 		A76FECD32B305E4C00FDAB04 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76FECD22B305E4C00FDAB04 /* ItemDetail.swift */; };
 		A76FECD52B306E3500FDAB04 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76FECD42B306E3500FDAB04 /* OrderView.swift */; };
+		A76FECD72B30747F00FDAB04 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76FECD62B30747F00FDAB04 /* MainView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		A76FECD02B305A9800FDAB04 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		A76FECD22B305E4C00FDAB04 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		A76FECD42B306E3500FDAB04 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		A76FECD62B30747F00FDAB04 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +162,7 @@
 				A76FECD02B305A9800FDAB04 /* ItemRow.swift */,
 				A76FECD22B305E4C00FDAB04 /* ItemDetail.swift */,
 				A76FECD42B306E3500FDAB04 /* OrderView.swift */,
+				A76FECD62B30747F00FDAB04 /* MainView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -304,6 +307,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A76FECD32B305E4C00FDAB04 /* ItemDetail.swift in Sources */,
+				A76FECD72B30747F00FDAB04 /* MainView.swift in Sources */,
 				A76FECD52B306E3500FDAB04 /* OrderView.swift in Sources */,
 				A76FECC82B30576D00FDAB04 /* Order.swift in Sources */,
 				A76FEC9E2B30570800FDAB04 /* ContentView.swift in Sources */,
